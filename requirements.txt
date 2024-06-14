@@ -2,6 +2,5 @@ langchain-google-genai
 google-generativeai
 sentence-transformers
 langchain_community
-faiss
 faiss-cpu
 googlesearch-python
