@@ -4,4 +4,5 @@ sentence-transformers
 langchain_community
 faiss-cpu
 python-dotenv
-serpapi
+duckduckgo-search
+googlesearch-python
