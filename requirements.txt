@@ -3,4 +3,5 @@ google-generativeai
 sentence-transformers
 langchain_community
 faiss-cpu
-googlesearch-python
+python-dotenv
+serpapi
